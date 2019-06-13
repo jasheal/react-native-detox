@@ -21,5 +21,8 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "detox": {
+    "test-runner": "jest"
   }
 }
